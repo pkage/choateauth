@@ -1,0 +1,29 @@
+<head>
+  <title>google-choate-auth</title>
+</head>
+
+<body>
+  <h1>Welcome to Meteor!</h1>
+
+  {{> loginButtons}}
+  {{> shun}}
+</body>
+
+<template name="hello">
+  <button>Click Me</button>
+  <p>You've pressed the button {{counter}} times.</p>
+</template>
+
+
+<template name="shun">
+{{#if currentUser}}
+{{#if isShunned}}
+<b>shun!</b>
+{{else}}
+<p>welcome, choatie!</p>
+{{/if}}
+{{else}}
+<p>log in first!</p>
+{{/if}}
+
+</template>
