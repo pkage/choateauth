@@ -1,3 +1,9 @@
 # choate authentcation with google
 
-not for nefarious purposes. definitely not. i don't know what you're talking about.
+A demonstration of how to use google accounts to verify that the a
+user is a member of the choate community. 
+
+It is important that you be logged into your choate google account
+when you get your credentials.
+
+
