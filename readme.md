@@ -1,4 +1,4 @@
-# choate authentication with Google logins
+# Choate Authentication with Google Logins
 
 A demonstration of how to use google accounts to verify that the a
 user is a member of the choate community. 
